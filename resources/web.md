@@ -7,6 +7,14 @@ layout: default
 
 ### Ruby
 
+- [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/ruby)
+- [Peepcode Sinatra Screencast](https://peepcode.com/products/sinatra) - an excellent hour long video detailing start to finish building a Sinatra app.
+- [Rapid Prototyping with Sinatra](http://alistapart.com/article/rapid-prototyping-with-sinatra) - an article from A List Apart about why to use Sinatra and basics of writing applications with Sinatra.
+- [I Did It My Way](http://ididitmyway.herokuapp.com/) - a series of blog posts about how to do various stuff with Sinatra.
+- [Simple Authentication with Sinatra](http://ididitmyway.herokuapp.com/past/2011/2/22/really_simple_authentication_in_sinatra/)
+- [CommLab Web Syllabus](https://github.com/ITPNYU/CommLabWeb) - the way Sinatra works on ITP's servers is different than it works on Heroku but this is still a good way to get started.
+- [Sinatra-Heroku Template](https://github.com/stevenklise/Sinatra-Heroku-Template) - an example Sinatra app that will run on Heroku.
+
 ### Node.js
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
@@ -23,7 +31,7 @@ layout: default
 ### Javascript
 
 - [Javascript for Cats](http://jsforcats.com/)
-- [Up to Speed in No Time](http://ericleads.com/2011/09/learning-javascript-up-to-speed-in-no-time/) a list of links to 
+- [Up to Speed in No Time](http://ericleads.com/2011/09/learning-javascript-up-to-speed-in-no-time/) a list of links to
 lots of resources on Javascript.
 - [JS Books](http://jsbooks.revolunet.com/) a list of free books about various Javascript topics.
 
@@ -32,7 +40,7 @@ lots of resources on Javascript.
 - [jQuery Fundamentals](http://jqfundamentals.com/) - an excellent resource for beginners to Javascript and jQuery
 - [jQuery Official API Refence](http://api.jquery.com/) - the reference for all available jQuery commands
 - [Unheap](http://www.unheap.com/) - a collection of jQuery plugins
-- [JQuery For Designers](http://jqueryfordesigners.com/) - short tutorials written for 
+- [JQuery For Designers](http://jqueryfordesigners.com/) - short tutorials written for
 
 ## Hosting
 
