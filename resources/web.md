@@ -18,7 +18,7 @@ layout: default
 ### Node.js
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
-- [DWD Class Github Repo](https://github.com/johnschimmel/ITP-DWD-Spring-2013) - class used Express
+- [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
 
 ### Python
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
