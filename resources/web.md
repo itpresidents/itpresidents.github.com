@@ -18,6 +18,7 @@ layout: default
 ### HTML
 
 ### CSS
+- [Semantic Grid System](http://semantic.gs/) - provides templates for different grid systems, uses LESS
 
 ### Javascript
 
@@ -31,7 +32,7 @@ lots of resources on Javascript.
 - [jQuery Fundamentals](http://jqfundamentals.com/) - an excellent resource for beginners to Javascript and jQuery
 - [jQuery Official API Refence](http://api.jquery.com/) - the reference for all available jQuery commands
 - [Unheap](http://www.unheap.com/) - a collection of jQuery plugins
-- [JQuery For Designers](http://jqueryfordesigners.com/) - lots of short tutorials
+- [JQuery For Designers](http://jqueryfordesigners.com/) - short tutorials written for 
 
 ## Hosting
 
