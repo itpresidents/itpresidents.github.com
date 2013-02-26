@@ -22,6 +22,7 @@ layout: default
 
 ### Python
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
+
 ## Front End Languages
 
 ### HTML
