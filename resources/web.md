@@ -10,7 +10,7 @@ layout: default
 ### Node.js
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
-
+- [DWD Class Github Repo](https://github.com/johnschimmel/ITP-DWD-Spring-2013) - examples written with Express
 ### Python
 
 ## Front End Languages
