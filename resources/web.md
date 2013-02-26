@@ -27,10 +27,16 @@ layout: default
 
 ### HTML
 
+- [Learn How To Make Website from Mozilla](https://developer.mozilla.org/en-US/learn)
+-
+
 ### CSS
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 - [Semantic Grid System](http://semantic.gs/) - provides templates for different grid systems, uses LESS
 - [Google Web Fonts](http://www.google.com/webfonts#)
+- [Fluid Baseline Grid](http://fluidbaselinegrid.com/)
+- [An Infinite Grid System](http://alistapart.com/article/the-infinite-grid)
+- [The Code Side of Color](http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/)
 
 ### Javascript
 
@@ -38,6 +44,9 @@ layout: default
 - [Up to Speed in No Time](http://ericleads.com/2011/09/learning-javascript-up-to-speed-in-no-time/) a list of links to
 lots of resources on Javascript.
 - [JS Books](http://jsbooks.revolunet.com/) a list of free books about various Javascript topics.
+- [List of Javascript Resource](https://gist.github.com/LindseyB/5015434)
+- [Javascript in Ten Minutes](https://github.com/spencertipping/js-in-ten-minutes)
+- [Finding the position of an element in a page](http://www.quirksmode.org/js/findpos.html)
 
 #### jQuery
 
