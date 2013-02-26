@@ -25,6 +25,7 @@ layout: default
 
 ### Python
 
+- [Django](https://www.djangoproject.com/)
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
 - [ITP RWET Tornado Examples](https://github.com/aparrish/rwet-examples/tree/master/tornado)
 
