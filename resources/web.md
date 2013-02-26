@@ -57,3 +57,4 @@ lots of resources on Javascript.
 
 - [Don't Fear The Internet](http://www.dontfeartheinternet.com/) - basic html and css tutorials
 - [A List Apart](http://www.alistpart.com)
+- [JS Fiddle](http://jsfiddle.net/) - browser tool to test HTML, CSS, & JS
