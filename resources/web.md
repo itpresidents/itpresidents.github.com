@@ -26,6 +26,7 @@ layout: default
 ## Front End Languages
 
 ### HTML
+- [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 
 ### CSS
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
