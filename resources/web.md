@@ -14,6 +14,9 @@ layout: default
 - [Simple Authentication with Sinatra](http://ididitmyway.herokuapp.com/past/2011/2/22/really_simple_authentication_in_sinatra/)
 - [CommLab Web Syllabus](https://github.com/ITPNYU/CommLabWeb) - the way Sinatra works on ITP's servers is different than it works on Heroku but this is still a good way to get started.
 - [Sinatra-Heroku Template](https://github.com/stevenklise/Sinatra-Heroku-Template) - an example Sinatra app that will run on Heroku.
+- [Learn to Program (Ruby)](http://pine.fm/LearnToProgram/)
+- [Sinatra Book](http://sinatra-book.gittr.com/)
+- [DataMapper Docs](http://datamapper.org/docs/)
 
 ### Node.js
 
@@ -21,17 +24,20 @@ layout: default
 - [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
 
 ### Python
+
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
 
 ## Front End Languages
 
 ### HTML
-- [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 
+- [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 - [Learn How To Make Website from Mozilla](https://developer.mozilla.org/en-US/learn)
--
+- [Complete list of HTML Elements with documentation](https://developer.mozilla.org/en-US/docs/HTML/Element)
 
 ### CSS
+
+- [List of CSS Properties with Documentation](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 - [Semantic Grid System](http://semantic.gs/) - provides templates for different grid systems, uses LESS
 - [Google Web Fonts](http://www.google.com/webfonts#)
@@ -50,6 +56,7 @@ lots of resources on Javascript.
 - [List of Javascript Resource](https://gist.github.com/LindseyB/5015434)
 - [Javascript in Ten Minutes](https://github.com/spencertipping/js-in-ten-minutes)
 - [Finding the position of an element in a page](http://www.quirksmode.org/js/findpos.html)
+- [Putting Processing.js in a web page](http://processingjs.org/articles/p5QuickStart.html#processingcodeinwebpage)
 
 #### jQuery
 
