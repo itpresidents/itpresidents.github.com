@@ -22,6 +22,7 @@ layout: default
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
 - [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
+- [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
 
 ### Python
 
