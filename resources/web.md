@@ -57,6 +57,7 @@ lots of resources on Javascript.
 - [Javascript in Ten Minutes](https://github.com/spencertipping/js-in-ten-minutes)
 - [Finding the position of an element in a page](http://www.quirksmode.org/js/findpos.html)
 - [Putting Processing.js in a web page](http://processingjs.org/articles/p5QuickStart.html#processingcodeinwebpage)
+- [List of Javascript Resources](https://gist.github.com/LindseyB/5015434)
 
 #### jQuery
 
