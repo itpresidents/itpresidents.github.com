@@ -33,6 +33,7 @@ layout: default
 - [Semantic Grid System](http://semantic.gs/) - provides templates for different grid systems, uses LESS
 - [Google Web Fonts](http://www.google.com/webfonts#)
 - [Font Squirrel](http://www.fontsquirrel.com/) - commercial free fonts
+- [Favicon Generator](http://www.favicon.cc/)
 
 ### Javascript
 
