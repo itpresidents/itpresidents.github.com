@@ -19,4 +19,8 @@ layout: default
 
 ### Javascript
 
+#### jQuery
+
+- [jQuery Fundamentals](http://jqfundamentals.com/) - an excellent 
+
 ## Hosting
