@@ -26,6 +26,7 @@ layout: default
 ## Front End Languages
 
 ### HTML
+- [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 
 - [Learn How To Make Website from Mozilla](https://developer.mozilla.org/en-US/learn)
 -
@@ -37,6 +38,8 @@ layout: default
 - [Fluid Baseline Grid](http://fluidbaselinegrid.com/)
 - [An Infinite Grid System](http://alistapart.com/article/the-infinite-grid)
 - [The Code Side of Color](http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/)
+- [Font Squirrel](http://www.fontsquirrel.com/) - commercial free fonts
+- [Favicon Generator](http://www.favicon.cc/)
 
 ### Javascript
 
