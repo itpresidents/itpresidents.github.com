@@ -50,4 +50,5 @@ lots of resources on Javascript.
 
 ## General Web Resources
 
+- [Don't Fear The Internet](http://www.dontfeartheinternet.com/) - basic html and css tutorials
 - [A List Apart](http://www.alistpart.com)
