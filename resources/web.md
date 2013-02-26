@@ -18,14 +18,16 @@ layout: default
 ### Node.js
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
+- [DWD Class Github Repo](https://github.com/johnschimmel/ITP-DWD-Spring-2013) - class used Express
 
 ### Python
-
+- [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
 ## Front End Languages
 
 ### HTML
 
 ### CSS
+- [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 - [Semantic Grid System](http://semantic.gs/) - provides templates for different grid systems, uses LESS
 
 ### Javascript
