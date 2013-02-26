@@ -22,10 +22,13 @@ layout: default
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
 - [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
+- [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
 
 ### Python
 
+- [Django](https://www.djangoproject.com/)
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
+- [ITP RWET Tornado Examples](https://github.com/aparrish/rwet-examples/tree/master/tornado)
 
 ## Front End Languages
 
