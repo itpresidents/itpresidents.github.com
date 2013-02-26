@@ -22,6 +22,7 @@ layout: default
 
 ### Python
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
+
 ## Front End Languages
 
 ### HTML
@@ -45,6 +46,8 @@ lots of resources on Javascript.
 - [JQuery For Designers](http://jqueryfordesigners.com/) - short tutorials written for
 
 ## Hosting
+
+- [Getting Started with Heroku](https://devcenter.heroku.com/articles/quickstart)
 
 ## General Web Resources
 
