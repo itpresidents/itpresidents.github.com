@@ -7,9 +7,13 @@ layout: default
 
 ### Ruby
 
+Start Here
+
 1. [Peepcode Sinatra Screencast](https://peepcode.com/products/sinatra) - an excellent hour long video detailing start to finish building a Sinatra app.
 2. [Sinatra-Heroku Template](https://github.com/stevenklise/Sinatra-Heroku-Template) - an example Sinatra app that will run on Heroku.
 3. [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/ruby)
+
+More Reference
 
 - [CommLab Web Syllabus](https://github.com/ITPNYU/CommLabWeb) - the way Sinatra works on ITP's servers is different than it works on Heroku but this is still a good way to get started.
 - [Rapid Prototyping with Sinatra](http://alistapart.com/article/rapid-prototyping-with-sinatra) - an article from A List Apart about why to use Sinatra and basics of writing applications with Sinatra.
@@ -21,8 +25,12 @@ layout: default
 
 ### Node.js
 
+Start Here
+
 1. [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
 2. [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/nodejs)
+
+More Reference
 
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
 - [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
@@ -62,7 +70,11 @@ layout: default
 
 ### Javascript
 
+Start Here
+
 1. [Javascript for Cats](http://jsforcats.com/)
+
+More Reference
 
 - [Up to Speed in No Time](http://ericleads.com/2011/09/learning-javascript-up-to-speed-in-no-time/) a list of links to
 lots of resources on Javascript.
@@ -75,8 +87,12 @@ lots of resources on Javascript.
 
 #### jQuery
 
+Start Here
+
 1. [jQuery Fundamentals](http://jqfundamentals.com/) - an excellent resource for beginners to Javascript and jQuery
 2. [Peepcode JQuery](https://peepcode.com/products/jquery)
+
+More Reference
 
 - [jQuery Official API Refence](http://api.jquery.com/) - the reference for all available jQuery commands
 - [Unheap](http://www.unheap.com/) - a collection of jQuery plugins
