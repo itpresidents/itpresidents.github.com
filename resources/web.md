@@ -34,7 +34,7 @@ layout: default
 
 ### HTML
 
-- [ITP - HTML5 Class](http://dankantor.com/itp/)
+- [ITP Spring 2012 - HTML5 Class](http://dankantor.com/itp/)
 - [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 - [Learn How To Make Website from Mozilla](https://developer.mozilla.org/en-US/learn)
 - [Complete list of HTML Elements with documentation](https://developer.mozilla.org/en-US/docs/HTML/Element)
