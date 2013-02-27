@@ -7,27 +7,30 @@ layout: default
 
 ### Ruby
 
-- [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/ruby)
-- [Peepcode Sinatra Screencast](https://peepcode.com/products/sinatra) - an excellent hour long video detailing start to finish building a Sinatra app.
+1. [Peepcode Sinatra Screencast](https://peepcode.com/products/sinatra) - an excellent hour long video detailing start to finish building a Sinatra app.
+2. [Sinatra-Heroku Template](https://github.com/stevenklise/Sinatra-Heroku-Template) - an example Sinatra app that will run on Heroku.
+3. [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/ruby)
+
+- [CommLab Web Syllabus](https://github.com/ITPNYU/CommLabWeb) - the way Sinatra works on ITP's servers is different than it works on Heroku but this is still a good way to get started.
 - [Rapid Prototyping with Sinatra](http://alistapart.com/article/rapid-prototyping-with-sinatra) - an article from A List Apart about why to use Sinatra and basics of writing applications with Sinatra.
 - [I Did It My Way](http://ididitmyway.herokuapp.com/) - a series of blog posts about how to do various stuff with Sinatra.
 - [Simple Authentication with Sinatra](http://ididitmyway.herokuapp.com/past/2011/2/22/really_simple_authentication_in_sinatra/)
-- [CommLab Web Syllabus](https://github.com/ITPNYU/CommLabWeb) - the way Sinatra works on ITP's servers is different than it works on Heroku but this is still a good way to get started.
-- [Sinatra-Heroku Template](https://github.com/stevenklise/Sinatra-Heroku-Template) - an example Sinatra app that will run on Heroku.
 - [Learn to Program (Ruby)](http://pine.fm/LearnToProgram/)
 - [Sinatra Book](http://sinatra-book.gittr.com/)
 - [DataMapper Docs](http://datamapper.org/docs/)
 
 ### Node.js
 
+1. [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
+2. [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/nodejs)
+
 - [Node.js for Beginners: About callback](http://www.theprojectspot.com/tutorial-post/nodejs-for-beginners-callbacks/4)
-- [ITP DWD Spring 2013](http://itpwebclass.herokuapp.com/) - class used Express
 - [Felix's Node.js Beginners Guide](http://nodeguide.com/beginner.html)
 
 ### Python
 
-- [Django](https://www.djangoproject.com/)
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
+- [Django](https://www.djangoproject.com/)
 - [ITP RWET Tornado Examples](https://github.com/aparrish/rwet-examples/tree/master/tornado)
 
 ## Front End Languages
@@ -38,6 +41,8 @@ layout: default
 - [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 - [Learn How To Make Website from Mozilla](https://developer.mozilla.org/en-US/learn)
 - [Complete list of HTML Elements with documentation](https://developer.mozilla.org/en-US/docs/HTML/Element)
+- [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Gecko_DOM_Reference)
+- [Safari HTML Reference](https://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html)
 
 ### CSS
 
@@ -50,10 +55,15 @@ layout: default
 - [The Code Side of Color](http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/)
 - [Font Squirrel](http://www.fontsquirrel.com/) - commercial free fonts
 - [Favicon Generator](http://www.favicon.cc/)
+- [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/CSS)
+- [Safari CSS Reference](http://developer.apple.com/library/safari/#documentation/appleapplications/reference/SafariCSSRef/Articles/StandardCSSProperties.html)
+- [CSS Gradient Editor](http://www.colorzilla.com/gradient-editor/)
+- [Another CSS Gradient Editor](http://www.westciv.com/tools/gradients/)
 
 ### Javascript
 
-- [Javascript for Cats](http://jsforcats.com/)
+1. [Javascript for Cats](http://jsforcats.com/)
+
 - [Up to Speed in No Time](http://ericleads.com/2011/09/learning-javascript-up-to-speed-in-no-time/) a list of links to
 lots of resources on Javascript.
 - [JS Books](http://jsbooks.revolunet.com/) a list of free books about various Javascript topics.
@@ -65,7 +75,9 @@ lots of resources on Javascript.
 
 #### jQuery
 
-- [jQuery Fundamentals](http://jqfundamentals.com/) - an excellent resource for beginners to Javascript and jQuery
+1. [jQuery Fundamentals](http://jqfundamentals.com/) - an excellent resource for beginners to Javascript and jQuery
+2. [Peepcode JQuery](https://peepcode.com/products/jquery)
+
 - [jQuery Official API Refence](http://api.jquery.com/) - the reference for all available jQuery commands
 - [Unheap](http://www.unheap.com/) - a collection of jQuery plugins
 - [JQuery For Designers](http://jqueryfordesigners.com/) - short tutorials written for non-coders
