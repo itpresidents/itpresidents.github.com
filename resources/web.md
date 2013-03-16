@@ -45,6 +45,7 @@ More Reference
 
 ### HTML
 
+- [Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/) (this is excellent)
 - [ITP Spring 2012 - HTML5 Class](http://dankantor.com/itp/)
 - [Don't Fear The Internet - Intro to HTML](http://www.dontfeartheinternet.com/html/html)
 - [Learn How To Make Website from Mozilla](https://developer.mozilla.org/en-US/learn)
@@ -56,6 +57,7 @@ More Reference
 
 - [List of CSS Properties with Documentation](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 - [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
+- [Learn Layout](http://learnlayout.com/)
 - [Semantic Grid System](http://semantic.gs/) - provides templates for different grid systems, uses LESS
 - [Google Web Fonts](http://www.google.com/webfonts#)
 - [Fluid Baseline Grid](http://fluidbaselinegrid.com/)
