@@ -42,6 +42,8 @@ More Reference
 - [ITP DWD Fall 2012](http://itppyweb.herokuapp.com/) - class used Flask
 - [Django](https://www.djangoproject.com/)
 - [ITP RWET Tornado Examples](https://github.com/aparrish/rwet-examples/tree/master/tornado)
+- [Learn Python The Hard Way](http://learnpythonthehardway.org/)
+- [Dive into Python](http://www.diveintopython.net/)
 
 ## Front End Languages
 
