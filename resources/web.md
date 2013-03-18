@@ -12,6 +12,7 @@ Start Here
 1. [Peepcode Sinatra Screencast](https://peepcode.com/products/sinatra) - an excellent hour long video detailing start to finish building a Sinatra app.
 2. [Sinatra-Heroku Template](https://github.com/stevenklise/Sinatra-Heroku-Template) - an example Sinatra app that will run on Heroku.
 3. [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/ruby)
+4. [Sinatra JSON API example](https://github.com/stevenklise/sinatra-api-example)
 
 More Reference
 
