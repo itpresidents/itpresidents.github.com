@@ -20,6 +20,7 @@ More Reference
 - [Rapid Prototyping with Sinatra](http://alistapart.com/article/rapid-prototyping-with-sinatra) - an article from A List Apart about why to use Sinatra and basics of writing applications with Sinatra.
 - [I Did It My Way](http://ididitmyway.herokuapp.com/) - a series of blog posts about how to do various stuff with Sinatra.
 - [Simple Authentication with Sinatra](http://ididitmyway.herokuapp.com/past/2011/2/22/really_simple_authentication_in_sinatra/)
+- [Authentication with a Database and Sinatra](https://github.com/stevenklise/sinatra-warden-example)
 - [Learn to Program (Ruby)](http://pine.fm/LearnToProgram/)
 - [Sinatra Book](http://sinatra-book.gittr.com/)
 - [DataMapper Docs](http://datamapper.org/docs/)
