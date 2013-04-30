@@ -8,6 +8,5 @@ categories:
   - Fabrication
   - PComp
 ---
-#
-
-Here are the slides from tuesday night’s Prototyping & Fabrication presentation
+<p>Here are the slides from tuesday night&#8217;s Prototyping &amp; Fabrication presentation<br />
+<iframe src="https://docs.google.com/presentation/d/16VlZB-7BCDwwr3fFXzkBiUI3pL4yRGKs4XvaJl8ScpE/embed?start=false&amp;loop=false&amp;delayms=3000" height="749" width="960" allowfullscreen="true" frameborder="0"></iframe></p>

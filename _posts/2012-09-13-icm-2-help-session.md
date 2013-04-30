@@ -9,14 +9,11 @@ categories:
   - ICM
   - Tutorial
 ---
-#
-
-Here are some helpful keyboard shortcuts:
-
-CMD R: runs the sketch
-CMD SHIFT R: runs the sketch fullscreen
-CMD K: opens the data folder
-CMD T selection: formats your code
-CMD / for (un)commenting out code
-CMD ] indents current line or selected text
-CMD [  outdents current line or selected text
+<p>Here are some helpful keyboard shortcuts:</p>
+<p>CMD + R: runs the sketch<br />
+CMD + SHIFT + R: runs the sketch fullscreen<br />
+CMD + K: opens the data folder<br />
+CMD + T + selection: formats your code<br />
+CMD + / for (un)commenting out code<br />
+CMD + ] indents current line or selected text<br />
+CMD + [  outdents current line or selected text</p>
