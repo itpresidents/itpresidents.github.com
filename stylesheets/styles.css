@@ -38,6 +38,10 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+h3 {
+  margin-bottom: 0.5em;
+}
+
 a {
   color:#39c;
   text-decoration:none;
@@ -115,10 +119,10 @@ header ul {
 }
 
 header ul a {
-  line-height:1.6em;
-  color:#999;
+  line-height: 1.6em;
+  color: #000;
   display:block;
-  padding-top:6px;
+  padding-top: 6px;
 }
 
 strong {
@@ -127,7 +131,6 @@ strong {
 }
 
 header ul a strong {
-  font-size:14px;
   display:block;
   color:#222;
 }

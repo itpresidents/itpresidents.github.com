@@ -1,6 +1,6 @@
 ---
 title: Web Resources
-layout: default
+layout: page
 ---
 
 ## Back End Languages
