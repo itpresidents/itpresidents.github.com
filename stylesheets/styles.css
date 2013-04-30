@@ -112,9 +112,7 @@ header {
 
 header ul {
   list-style:none;
-  height:40px;
-
-  padding:0;
+  padding: 0 0 0.5em;
   width:270px;
 }
 
