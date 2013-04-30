@@ -21,7 +21,7 @@ categories:
 <a href="http://processing.org/learning/drawing/">drawing in processing</a> (coordinate system, simple shapes)<br />
 <a href="http://processing.org/learning/color/">working with color</a></p>
 <p><a href="http://www.khanacademy.org/math/geometry/circles-topic/v/circles--radius--diameter-and-circumference">Anatomy of a Circle</a></p>
-<p><a href="http://itp.nyu.edu/residents/wp-content/uploads/2012/09/Screen-Shot-2012-09-10-at-4.56.31-PM1.png"><img class="alignnone size-full wp-image-192" title="Radians and Degrees" src="http://itp.nyu.edu/residents/wp-content/uploads/2012/09/Screen-Shot-2012-09-10-at-4.56.31-PM1.png" alt="" width="662" height="625" /></a></p>
+<p><a href="/uploads/2012/09/Screen-Shot-2012-09-10-at-4.56.31-PM1.png"><img class="alignnone size-full wp-image-192" title="Radians and Degrees" src="/uploads/2012/09/Screen-Shot-2012-09-10-at-4.56.31-PM1.png" alt="" width="662" height="625" /></a></p>
 <p><em>Radians and Degrees, scanned from <a href="http://shop.oreilly.com/product/0636920000570.do">Getting Started With Processing</a> (Reas, Fry 2010)</em></p>
 <p>The Unit Circle<br />
 <a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/600px-Unit_circle_angles_color.svg.png"><img class="alignnone" title="Unit Circle" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/600px-Unit_circle_angles_color.svg.png" alt="" width="600" height="600" /></a></p>

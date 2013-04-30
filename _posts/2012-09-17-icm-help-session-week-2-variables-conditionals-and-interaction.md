@@ -27,48 +27,48 @@ categories:
 <h1>Mouse/Keyboard Interaction</h1>
 <p>- Interrupts the draw loop to run code when you interact with your keyboard or mouse<br />
 - mousePressed(), keyPressed(), etc&#8230;</p>
-<p><a href="http://itp.nyu.edu/residents/wp-content/uploads/2012/09/photo.jpg"><img class="alignnone size-large wp-image-347" title="photo" src="http://itp.nyu.edu/residents/wp-content/uploads/2012/09/photo-1024x764.jpg" alt="" width="584" height="435" /></a></p>
+<p><a href="/uploads/2012/09/photo.jpg"><img class="alignnone size-large wp-image-347" title="photo" src="/uploads/2012/09/photo-1024x764.jpg" alt="" width="584" height="435" /></a></p>
 <p>&nbsp;</p>
 <p><strong>STATE SWITCHES</strong></p>
 <p><a href="https://gist.github.com/3744207">Here</a> is an example of how to use a boolean, conditionals, and mousePressed to create a simple state switch- changing the color of a circle from one to another. </p>
 <p>Click the mouse over the circle! </p>
 <p><script type="application/processing">
 //Info: http://processingjs.org/reference
-color redColor; 
-color blueColor; 
+color redColor;
+color blueColor;
 
-boolean colorIsRed; 
+boolean colorIsRed;
 
 void setup () {
 
-  redColor = color (255, 0, 0); 
-  blueColor = color (0, 0, 255); 
+  redColor = color (255, 0, 0);
+  blueColor = color (0, 0, 255);
 
   colorIsRed = false; //default to a blue color
-  
+
 }
 
 void draw () {
-  
-  background(255); 
+
+  background(255);
 
   //conditional changes the fill color based on the colorIsRed boolean
-  if (colorIsRed == true) { 
+  if (colorIsRed == true) {
     fill (redColor);
-  } 
+  }
   else {
     fill (blueColor);
-  } 
+  }
 
   //draw the ellipse
-  ellipseMode (CENTER); 
+  ellipseMode (CENTER);
   ellipse (width/2, height/2, 50, 50);
 }
 
 void mousePressed () {
 
   colorIsRed = !colorIsRed; //make colorIsRed equal to whatever colorIsRed is NOT
-  println ("colorIsRed is: " + colorIsRed); 
+  println ("colorIsRed is: " + colorIsRed);
 }
 
 

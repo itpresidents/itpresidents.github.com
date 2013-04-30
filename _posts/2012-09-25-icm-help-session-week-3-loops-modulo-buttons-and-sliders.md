@@ -42,4 +42,4 @@ categories:
 <a href="https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_3/ICM_Help_Week3_ToggleGrid_Alt/ICM_Help_Week3_ToggleGrid_Alt.pde">Approach 1</a><br />
 <a href="https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_3/ICM_Help_Week3_ToggleGrid/ICM_Help_Week3_ToggleGrid.pde">Approach 2</a> (with hover state)<br />
 <a href="https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_3/ICM_Help_Week3_ToggleRandomWithLines_pde/ICM_Help_Week3_ToggleRandomWithLines_pde.pde">Approach 3</a> (randomly placed cells with drawing via objects)</p>
-<p><a href="http://itp.nyu.edu/residents/wp-content/uploads/2012/09/photo1.jpg"><img class="alignnone size-large wp-image-440" title="photo" src="http://itp.nyu.edu/residents/wp-content/uploads/2012/09/photo1-1024x764.jpg" alt="" width="584" height="435" /></a></p>
+<p><a href="/uploads/2012/09/photo1.jpg"><img class="alignnone size-large wp-image-440" title="photo" src="/uploads/2012/09/photo1-1024x764.jpg" alt="" width="584" height="435" /></a></p>
