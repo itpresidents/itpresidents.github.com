@@ -2,13 +2,12 @@
 title: Image Processing in OF
 author: gh726
 layout: post
-permalink: /image-processing-in-of/
 dsq_thread_id:
   - 1078202406
 categories:
   - OpenFrameworks
 ---
-# 
+#
 
 Here is a link to the two [examples][1] we were worked on in the workshop this evening. My apologies to those who asked about screen recording, we didn’t end up making that work, but if anyone would like to go through these examples or have me walk through the slides, please come to office hours.
 

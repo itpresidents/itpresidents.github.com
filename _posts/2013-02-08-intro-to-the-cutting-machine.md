@@ -2,22 +2,21 @@
 title: Intro to the Cutting Machine
 author: Antonius
 layout: post
-permalink: /intro-to-the-cutting-machine/
 dsq_thread_id:
   - 1072988938
 categories:
   - Uncategorized
 ---
-# 
+#
 
 Details about the [Graphtec Craft Robo Pro small cutting machine][1]
 
  [1]: http://www.graphteccorp.com/craftrobo/
 
-*   Materials: 
+*   Materials:
     *   less than .25 mm thickness
     *   slightly thicker materials can be cut with multiple passes.
-*   Compatible materials: 
+*   Compatible materials:
     *   vinyl, paper and paperboard.
 *   The max cutting range is 375 mm (width) x 50 m (length).
 *   Have your designs ready as an illustrator compatible vector graphic – no raster images.
@@ -34,7 +33,7 @@ Details about the [Graphtec Craft Robo Pro small cutting machine][1]
 
 
 
-*   Materials: 
+*   Materials:
     *   [Cutting Mat][3]
     *   [Clear Contact Paper][4]
 

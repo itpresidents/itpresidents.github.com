@@ -2,13 +2,12 @@
 title: 'Residents&#8217; Digest #01'
 author: Craig
 layout: post
-permalink: /residents-digest-01/
 dsq_thread_id:
   - 844417896
 categories:
   - "Residents' Digest"
 ---
-# 
+#
 
 Hey everyone,
 
@@ -88,7 +87,7 @@ Here’s a fun [project][15] I found in my survey of DIY photo booths, which rem
 
 Outside school, Will & I revived some of our Video Sculpture projects for the giant Winkel &  Balktick party at the old Pfizer building in BK — an experience much like the ITP show except that your guests are all intoxicated. I’m also enjoying sitting in some classes within ITP, and signed up for some programming ones outside of ITP.
 
-Yesterday I took down all the pictures with the faces of the class of 2012 from the front lounge to make way for new photos — a task that took longer than necessary because I kept stopping to reminisce. It goes by quickly, folks, don’t forget to stop and enjoy each others company ![:)][21] 
+Yesterday I took down all the pictures with the faces of the class of 2012 from the front lounge to make way for new photos — a task that took longer than necessary because I kept stopping to reminisce. It goes by quickly, folks, don’t forget to stop and enjoy each others company ![:)][21]
 
  [21]: http://itp.nyu.edu/residents/wp-includes/images/smilies/icon_smile.gif
 
@@ -117,8 +116,8 @@ Yesterday I took down all the pictures with the faces of the class of 2012 from 
 
 We have been working around NIME with Nick and Antonius and in that line I installed with Marlon the new audio system for the class which should be properly operating for next week, and enjoyed so much the performances of all NIMErs in their first exercise! We have been doing some research for the venues for the show too.
 
-With Nick we hosted the second audio help session in Recording basics and have been going through all the audio equipment in the ER and updating the online information about it in the [audio help page][28].  
-I also assisted Antonius in the Smart Crafting Workshop, which had a great response.  
+With Nick we hosted the second audio help session in Recording basics and have been going through all the audio equipment in the ER and updating the online information about it in the [audio help page][28].
+I also assisted Antonius in the Smart Crafting Workshop, which had a great response.
 We had our first PComp help session with almost no students…wondering if the questions will arrive in the next days, so we are scheduling an extra one for Tuesday…Maybe Steve and Craig with sexy-github at the same time was too much to compete with!
 
  [28]: http://itp.nyu.edu/help/Audio/Mics
@@ -158,7 +157,7 @@ A number of people asked in the ICM help session for examples of what people do 
 
 [http://openprocessing.org/browse/?viewBy=most&filter=favorited][38]
 
-People were also asking about drawing curves in Processing and in particular Bezier curves. Here’s an online tool that animates what’s going on and gives you a graphical interface for manipulating the curve. 
+People were also asking about drawing curves in Processing and in particular Bezier curves. Here’s an online tool that animates what’s going on and gives you a graphical interface for manipulating the curve.
 
 (Link is gory) Re: Storyboarding and delivering a punchline in a short amount of time. [http://www.youtube.com/watch?v=prDCDmchtTg][39]
 
@@ -173,18 +172,18 @@ Some Links:
  [38]: http://openprocessing.org/browse/?viewBy=most&filter=favorited
  [39]: http://www.youtube.com/watch?v=prDCDmchtT
 
-September 5th marked the 100th birthday of John Cage, one of my heroes.  Here he is performing his piece “Water Walk” on the game show “I’ve Got a Secret” in 1960 and displaying a marvelous sense of humor about the situation.  
+September 5th marked the 100th birthday of John Cage, one of my heroes.  Here he is performing his piece “Water Walk” on the game show “I’ve Got a Secret” in 1960 and displaying a marvelous sense of humor about the situation.
 [http://blog.wfmu.org/freeform/2007/04/john\_cage\_on\_a\_.html][40]
 
 
 
-Since the Comm Lab sound projects are happening this week, it seems appropriate to highlight the work of another hero of mine: Tony Schwartz. Among many other things, he was a pioneer of urban field recording.  Here’s a nice radio piece about him produced by the Kitchen Sisters:  
+Since the Comm Lab sound projects are happening this week, it seems appropriate to highlight the work of another hero of mine: Tony Schwartz. Among many other things, he was a pioneer of urban field recording.  Here’s a nice radio piece about him produced by the Kitchen Sisters:
 [http://hearingvoices.com/news/2008/06/tony-schwartz/][41]
 
 
 
-And for those new to sound recording & editing (or those who simply love it), I highly recommend the site Transom.  
-It features great reviews and tutorials on equipment and a nicely curated selection of audio pieces  
+And for those new to sound recording & editing (or those who simply love it), I highly recommend the site Transom.
+It features great reviews and tutorials on equipment and a nicely curated selection of audio pieces
 
 
 

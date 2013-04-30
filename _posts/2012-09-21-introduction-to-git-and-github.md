@@ -2,14 +2,13 @@
 title: Introduction to Git and Github
 author: Steve
 layout: post
-permalink: /introduction-to-git-and-github/
 dsq_thread_id:
   - 853465536
 categories:
   - Git
   - Tutorial
 ---
-# 
+#
 
 *This post is a mirror of the original article on Steve’s blog, which is [here][1].*
 
@@ -127,7 +126,7 @@ Finally, some commands for Terminal.
 
 Let’s see what the contents of `~` are. To do this we will use the command **`ls`**. Type the following in to Terminal and hit enter:
 
-    $ ls 
+    $ ls
 
 (Whenever you see `$` at the beginning of a line of code, don’t type it, it’s there to say “This is something typed in to Terminal.”)
 
@@ -143,11 +142,11 @@ The command to move to move to a folder is **`cd`**. CD stands for “change dir
 
 Type the following into Terminal and hit enter:
 
-    $ cd ~/Desktop 
+    $ cd ~/Desktop
 
 Are you back at your prompt? Is anything different? You should see the `~` has been replaced with `Desktop`. That means we are now in the Desktop folder. If you type
 
-    $ ls 
+    $ ls
 
 You’ll get a list of all the files and folders on your Desktop. This may be a lot of files or it may be nothing.
 
@@ -163,7 +162,7 @@ I want to make a Processing sketch called “radsketch.” Processing requires a
 
 The command to make a folder is **`mkdir`**. This stands for “make directory,” programmers are lazy and don’t like to type unnecessary characters. Dropping vowels from words started way before the internet. We need to give the `mkdir` command the name of the directory (remember, folder and directory are the same thing) we want to make. Terminal doesn’t deal well with spaces, and in general having spaces in folder and file names will just slow you down. Anyways, Processing doesn’t let you have spaces in folder or sketch names. Let’s make our folder “radsketch”:
 
-    $ mkdir radsketch 
+    $ mkdir radsketch
 
 It looks like nothing happened in the Terminal, you are right back at your prompt and nothing has changed. But if you look at your desktop you should find a folder named “radsketch”.
 
@@ -175,11 +174,11 @@ Now to make the file “radsketch.pde”. For this we will use the **`touch`** c
 
 But first we want to be inside the “radsketch” folder. Do the following:
 
-    $ cd ~/Desktop/radsketch 
+    $ cd ~/Desktop/radsketch
 
 Now we’ll use the touch command:
 
-    $ touch radsketch.pde 
+    $ touch radsketch.pde
 
 If you look in the radsketch folder on your desktop you’ll see a file you can open with Processing.
 
@@ -187,7 +186,7 @@ Leave the Terminal open and open radsketch.pde in Processing.
 
 Our Processing sketch is not rad right now. Let’s make it rad. Open the file in Processing and write some code. This is what I’ll write:
 
-    // radsketch.pde void setup() { size(200,200); background(255); smooth(); noStroke(); fill(255,0,0); ellipse(width/2, height/2, 50, 50); fill(255); triangle(width/2, height/2 - 25, width/2   cos(radians(210))*25, height/2 - sin(radians(210))*25, width/2   cos(radians(330))*25, height/2 - sin(radians(330))*25 ); } 
+    // radsketch.pde void setup() { size(200,200); background(255); smooth(); noStroke(); fill(255,0,0); ellipse(width/2, height/2, 50, 50); fill(255); triangle(width/2, height/2 - 25, width/2   cos(radians(210))*25, height/2 - sin(radians(210))*25, width/2   cos(radians(330))*25, height/2 - sin(radians(330))*25 ); }
 
 Kinda rad. It could be radder, but I don’t want to lose this state of the sketch. What should I do? Track the sketch with Git!
 
@@ -197,7 +196,7 @@ We need to take a quick detour and execute two commands before we use Git. These
 
 A note about the following commands, put your name and preferred email address inside the quote marks. These values will be stored with Git and with every project you work on with Git. So be sure that the email address you use is ok to be public.
 
-    $ git config --global user.name "YOUR_FULL_NAME" $ git config --global user.email "YOUR_EMAIL_ADDRESS" 
+    $ git config --global user.name "YOUR_FULL_NAME" $ git config --global user.email "YOUR_EMAIL_ADDRESS"
 
 What’s the deal with this? Why does Git need to know your name and email address? Git is used to track changes to files in a project, part of tracking changes is noting who made the changes.
 
@@ -207,7 +206,7 @@ To start tracking a project with Git you need to tell Git to start doing so.
 
 In the same Terminal window as we’ve been using, execute the following:
 
-    $ git init 
+    $ git init
 
 You’ll get a one line response similar to the following
 
@@ -221,7 +220,7 @@ What just happened was Git created a folder inside the radsketch folder named �
 
 What does Git know about the radsketch folder and its contents, and how do we find out what Git knows?
 
-    $ git status 
+    $ git status
 
 Returns:
 
@@ -245,11 +244,11 @@ This two step process will make more sense when you are dealing with a project w
 
 Files are added to Git by typing `git add` and then the name of the file:
 
-    $ git add radsketch.pde 
+    $ git add radsketch.pde
 
 If you execute that command it looks like nothing happened—there’s no response. It’s time to run `git status` again.
 
-    $ git status 
+    $ git status
 
 ![][12]
 
@@ -277,7 +276,7 @@ So, please, leave good messages. You’ll thank yourself later.
 
 Now, where were we. Make a commit. Ok. The command to make a commit is `git commit -m`. The `-m` is to leave a message. Always leave a message.
 
-    $ git commit -m "Created a triangle in a circle" 
+    $ git commit -m "Created a triangle in a circle"
 
 ![][14]
 
@@ -285,7 +284,7 @@ Now, where were we. Make a commit. Ok. The command to make a commit is `git comm
 
 We’ve made our first commit. Let’s do `git status` again and see what’s going on.
 
-    $ git status 
+    $ git status
 
 ![][15]
 
@@ -293,11 +292,11 @@ We’ve made our first commit. Let’s do `git status` again and see what’s go
 
 Git doesn’t see any changes to the files since the last commit. Let’s make some changes and see what `git status` says after that.
 
-    // radsketch.pde void setup() { size(200,200); background(255); smooth(); noStroke(); fill(0,255,0); rect(width/2 - 25, height/2 - 25, 50, 50); fill(255,0,0); ellipse(width/2, height/2, 50, 50); fill(255); triangle(width/2, height/2 - 25, width/2   cos(radians(210))*25, height/2 - sin(radians(210))*25, width/2   cos(radians(330))*25, height/2 - sin(radians(330))*25 ); } 
+    // radsketch.pde void setup() { size(200,200); background(255); smooth(); noStroke(); fill(0,255,0); rect(width/2 - 25, height/2 - 25, 50, 50); fill(255,0,0); ellipse(width/2, height/2, 50, 50); fill(255); triangle(width/2, height/2 - 25, width/2   cos(radians(210))*25, height/2 - sin(radians(210))*25, width/2   cos(radians(330))*25, height/2 - sin(radians(330))*25 ); }
 
 Now save those changes and execute:
 
-    $ git status 
+    $ git status
 
 ![][16]
 
@@ -305,7 +304,7 @@ Now save those changes and execute:
 
 Geez, Git is great. It knows that we changed the file and it even tells us what we could do next. We’re going to do `git add` but before that let’s dig a bit deeper in to what is happening.
 
-    $ git diff 
+    $ git diff
 
 ![][17]
 
@@ -315,7 +314,7 @@ Git doesn’t just know that the file has changed, Git knows which lines have ch
 
 So let’s add radsketch.pde and make a commit
 
-    $ git add radsketch.pde $ git commit -m "Added a rectangle behind the other shapes" 
+    $ git add radsketch.pde $ git commit -m "Added a rectangle behind the other shapes"
 
 ![][18]
 
@@ -398,7 +397,7 @@ At this point in the talk, hand motions were used. You’ll need to imagine them
 
 We’ve told Git about Github, now we want to show Github what we’ve got. Let’s copy and paste the second line of the instructions into Terminal and hit enter.
 
-    $ git push -u origin master 
+    $ git push -u origin master
 
 You’ll be prompted for your Github username, type it in and hit enter. Then you’ll be prompted for you Github password. Type it in. **The cursor will not move, you won’t see any visual indication of your typing**. This is a security measure, if you mess up your password just hit DELETE…maybe 30 times, 40 for safe measure. Hit enter, you’ll get a response similar to but not identical to the following screenshot
 

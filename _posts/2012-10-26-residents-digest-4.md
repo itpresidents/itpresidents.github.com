@@ -2,13 +2,12 @@
 title: 'Residents&#8217; Digest #4'
 author: Craig
 layout: post
-permalink: /residents-digest-4/
 dsq_thread_id:
   - 901996446
 categories:
   - "Residents' Digest"
 ---
-# 
+#
 
 ****![][1]****
 
@@ -18,7 +17,7 @@ categories:
 
 ## Antonius
 
-I met many students these past two weeks in and out of office hours, ranging from coding out some fun sketches to etching printed circuit boards. I apologize to everyone who I couldn’t get to, especially last weekend because I was so busy documenting Nancy Hechinger and Anna Deavere Smith’s amazing class. I have also been assisting the Big Screens students, including having to wipe one of the machines clean and setting up two render machines for the students to use. The IAC is treating me really well and I’m about to meet with marketing for a feasibility report before pitching my idea to the head honchos. One of my other duties is to help port an existing product to Windows 8 and Windows RT, so I’m excited to go to[ Microsoft’s event on October 26][2] at Pier 57. Fingers crossed they’ll give me a Surface! Last week, I finished the entire[ Hunger Games trilogy][3] within a span of a few days. It was just too addictive. Now, while I wait for[ Grace Coddington’s memoir][4] to be released, I’ve started [The Wind-up Bird Chronicle][5]. It’s a brilliantly executed novel, with an unapologetically Western tone despite being written by one of Japan’s definitive contemporary writers.****  
+I met many students these past two weeks in and out of office hours, ranging from coding out some fun sketches to etching printed circuit boards. I apologize to everyone who I couldn’t get to, especially last weekend because I was so busy documenting Nancy Hechinger and Anna Deavere Smith’s amazing class. I have also been assisting the Big Screens students, including having to wipe one of the machines clean and setting up two render machines for the students to use. The IAC is treating me really well and I’m about to meet with marketing for a feasibility report before pitching my idea to the head honchos. One of my other duties is to help port an existing product to Windows 8 and Windows RT, so I’m excited to go to[ Microsoft’s event on October 26][2] at Pier 57. Fingers crossed they’ll give me a Surface! Last week, I finished the entire[ Hunger Games trilogy][3] within a span of a few days. It was just too addictive. Now, while I wait for[ Grace Coddington’s memoir][4] to be released, I’ve started [The Wind-up Bird Chronicle][5]. It’s a brilliantly executed novel, with an unapologetically Western tone despite being written by one of Japan’s definitive contemporary writers.****
 ****
 
  [2]: http://photos.mercurynews.com/2012/10/25/microsoft-launches-windows-8/
@@ -106,7 +105,7 @@ At the festival I had the opportunity to speak on a[ panel][28] about the role o
 
 Yesterday I also had my first day of work at the IAC, where I’ll be producing content for the video wall. I’m just at the initial stages of brainstorming, but I’m looking forward to working on that scale again, especially after seeing all the great stuff coming out of the Big Screens class so far.
 
-I sent this link to the Renatured list, but thought I’d share it here. This man is doing really great work with[ aquaponics][38] and social/environmental justice. I want to get a kit for the floor!****  
+I sent this link to the Renatured list, but thought I’d share it here. This man is doing really great work with[ aquaponics][38] and social/environmental justice. I want to get a kit for the floor!****
 ****
 
  [38]: http://faircompanies.com/videos/view/internet-food-arduino-based-urban-aquaponics-in-oakland/
@@ -138,13 +137,13 @@ This is already pretty long. How did it get so long? Does anyone actually read t
  [48]: http://en.wikipedia.org/wiki/Trojan_Room_coffee_pot
  [49]: http://www.eleceng.adelaide.edu.au/personal/dabbott/animal.html
 
-[World-Class DARPA Robot Successfully Launches Through Obstacle Course Like A Drunken Sailor.][50]  
-****  
+[World-Class DARPA Robot Successfully Launches Through Obstacle Course Like A Drunken Sailor.][50]
+****
 **Merche**
 
  [50]: http://www.slate.com/blogs/future_tense/2012/10/25/darpa_grand_challenge_humanoid_pet_proto_robot_completes_obstacle_course.html
 
-Uhaaaa….it’s been already two weeks??  
+Uhaaaa….it’s been already two weeks??
 Midterms and NIMERs have been bringing a lot of fun interesting questions and projects, so I have been doing some research to help them. There has been a lot of video editing this week too. There was a hole in the documentation history of NIME from the performances of last year, so I created in the ITP vimeo site a home for all of them and edited the ones missing…a lot of interesting memories from that day came back! Check them out [here][51] .
 
  [51]: https://vimeo.com/channels/410789
@@ -157,8 +156,8 @@ Some days ago in an art opening I had the greatest chat with [this fabulous “l
 
  [53]: http://www.mindspring.com/~kbhybrid/performance.html
 
-There are also some interesting performances coming in the next two weeks in [Grace Exhibition Space][54], in Brooklyn and for Bill Moggridge’s fans there is this [event][55] in Symphony Space  
-****  
+There are also some interesting performances coming in the next two weeks in [Grace Exhibition Space][54], in Brooklyn and for Bill Moggridge’s fans there is this [event][55] in Symphony Space
+****
 **Mimi**
 
  [54]: http://www.grace-exhibition-space.com/
@@ -194,7 +193,7 @@ Speaking of mechanical music (as I often am), Saturday is the late Conlon Nancar
  [60]: http://www.youtube.com/watch?v=f2gVhBxwRqg
  [61]: http://radiom.org/detail.php?et=interviewMusic&omid=SOM.1984.02.02.A
 
-At the ReGen opening, I chatted with the folks from Rockwell Lab about their new project [Spacebrew][62], an open toolkit for creating interactive spaces using websockets. Looks exciting — they’ll be hosting workshops on the first friday of each month to introduce it.  You can check it out and  [sign-up for updates here][63].****  
+At the ReGen opening, I chatted with the folks from Rockwell Lab about their new project [Spacebrew][62], an open toolkit for creating interactive spaces using websockets. Looks exciting — they’ll be hosting workshops on the first friday of each month to introduce it.  You can check it out and  [sign-up for updates here][63].****
 ****
 
  [62]: http://www.spacebrew.cc/downloads/
@@ -234,6 +233,6 @@ You may have seen me around the floor flying a quadcopter. There’s going to be
  [76]: http://www.youtube.com/watch?v=ezmAP1fshfo
  [77]: https://github.com/voodootikigod/node-serialport/issues/101
 
-Just some links:  
-  
-  
+Just some links:
+
+

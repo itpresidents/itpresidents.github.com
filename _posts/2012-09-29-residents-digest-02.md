@@ -2,13 +2,12 @@
 title: 'Residents&#8217; Digest #02'
 author: Craig
 layout: post
-permalink: /residents-digest-02/
 dsq_thread_id:
   - 864345855
 categories:
   - "Residents' Digest"
 ---
-# 
+#
 
 [![Resident's Digest Cover: Week 4][2]][2]
 

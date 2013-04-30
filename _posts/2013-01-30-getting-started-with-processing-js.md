@@ -2,13 +2,12 @@
 title: Getting started with Processing.js
 author: Steve
 layout: post
-permalink: /getting-started-with-processing-js/
 dsq_thread_id:
   - 1055552341
 categories:
   - Uncategorized
 ---
-# 
+#
 
 Here are some links from Nature of Code today about using Processing.js to write directly with Javascript:
 

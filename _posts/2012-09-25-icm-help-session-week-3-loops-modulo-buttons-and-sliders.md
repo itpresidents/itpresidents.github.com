@@ -2,14 +2,13 @@
 title: 'ICM Help Session Week 3: Loops, Modulo, Buttons and Sliders'
 author: Mimi
 layout: post
-permalink: /icm-help-session-week-3-loops-modulo-buttons-and-sliders/
 dsq_thread_id:
   - 858192652
 categories:
   - ICM
   - Tutorial
 ---
-# 
+#
 
 # [Code Examples Here][1]
 
@@ -19,7 +18,7 @@ categories:
 
  [2]: https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_3/ICM_Help_Week3_Slider/ICM_Help_Week3_Slider.pde
 
-This is a great example for understanding the following Processing functions:  
+This is a great example for understanding the following Processing functions:
 ****
 
 1.  **[constrain()][3]** – How to make the slider button not fall off the ends of the slider.
@@ -66,9 +65,9 @@ So then can you guess what’s the difference between keyPressed and keyPressed(
 
 # Teaser For Next Week
 
-How do you create a grid of on/off switches?  
-[Approach 1][10]  
-[Approach 2][11] (with hover state)  
+How do you create a grid of on/off switches?
+[Approach 1][10]
+[Approach 2][11] (with hover state)
 [Approach 3][12] (randomly placed cells with drawing via objects)
 
  [10]: https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_3/ICM_Help_Week3_ToggleGrid_Alt/ICM_Help_Week3_ToggleGrid_Alt.pde

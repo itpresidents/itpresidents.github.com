@@ -2,13 +2,12 @@
 title: 'ICM Help Session Week 8: Data'
 author: Mimi
 layout: post
-permalink: /icm-help-session-week-8-data/
 dsq_thread_id:
   - 915316690
 categories:
   - ICM
 ---
-# 
+#
 
 Today we mostly walked through how to get “live” data from the internet.
 
@@ -52,7 +51,7 @@ Processing doesn’t know about the JSON data format. So you’ll need to use [J
 Jer walks through pulling data from the NYT by using the NYT API. At a high-level, here are the main steps:
 
 1.  [DONWLOAD JSON LIBRARY][2]: Put the entire “json” folder from the zip file into Processing>>libraries.
-2.  [Go get yourself an API Key][3] from the NYT. (You’ll need to log in with a NYT account.) The API key is basically a big long string of letters and numbers and it’s how NYT associates the data requests you’re making with you (in case you do something bad ![;)][4] 
+2.  [Go get yourself an API Key][3] from the NYT. (You’ll need to log in with a NYT account.) The API key is basically a big long string of letters and numbers and it’s how NYT associates the data requests you’re making with you (in case you do something bad ![;)][4]
 3.  Try running [this example][5].
 
  [2]: http://www.blprnt.com/processing/json.zip "Get JSON LIbrary"

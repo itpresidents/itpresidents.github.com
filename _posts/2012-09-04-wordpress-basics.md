@@ -2,14 +2,13 @@
 title: WordPress Basics
 author: Antonius
 layout: post
-permalink: /wordpress-basics/
 dsq_thread_id:
   - 845365692
 categories:
   - Tutorial
   - Wordpress
 ---
-# 
+#
 
 Now that you have your WordPress Blog set up, [thanks to Steve’s tutorial][1], let’s make a simple blog post with some text, a photo and a couple of videos. [A finished example looks like this][2].
 
@@ -74,28 +73,28 @@ And your embeds should work like before. If you’re getting confused about HTML
 
 What I like about embedding media outside of WordPress is it’s easy to access the media and post it elsewhere. For example, you too can make the exact blog post that I made just by copying the code below and pasting it into a new post with html view:
 
-    
+
       Hey Check out this photo:
-    
-    
-    
+
+
+
       [embed]http://www.flickr.com/photos/31090466@N08/7897383054/[/embed]
-    
-    
-    
+
+
+
       Then check out this video:
-    
-    
-    
+
+
+
       [embed]http://vimeo.com/47875656[/embed]
-    
-    
-    
+
+
+
       And this one:
-    
-    
-    
+
+
+
       [embed]http://www.youtube.com/watch?v=NRDXohpWAIo[/embed]
-    
+
 
 And if you’re wondering how I got that gist in there, well, you’ll have to check out my next tutorial on how to install wordpress plugins.

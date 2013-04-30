@@ -2,13 +2,12 @@
 title: 'Residents&#8217; Digest #7'
 author: Craig
 layout: post
-permalink: /residents-digest-7/
 dsq_thread_id:
   - 1079704321
 categories:
   - "Residents' Digest"
 ---
-# 
+#
 
 **![][1]**
 
@@ -27,10 +26,10 @@ Hello 2013! The year went off to a running start. I jumped into the ocean at [Co
 
 In the Javanese Gamelan front, I started learning how to play sekaran (elaboration / flowering) for the bonang barung – the instrument which I soft-circuit-stitched onto my laptop sleeve for my thesis. Speaking of which, I hear that the Solder Stitch and Bitch club is starting up again. All of you should join.
 
-And now some links:  
-[Iris van Herpen’s 3D printed and laser sintered dresses][8].  
-[Maison Martin Margiela’s foray into haute couture][9].  
-SHOWStudio’s latest fashion ads using [3D sensing and motion capture][10].  
+And now some links:
+[Iris van Herpen’s 3D printed and laser sintered dresses][8].
+[Maison Martin Margiela’s foray into haute couture][9].
+SHOWStudio’s latest fashion ads using [3D sensing and motion capture][10].
 And [Hussein Chalayan’s S/S13][11] brilliant illusory effects on fabric without using a single Kinect. Now that’s what I call fashion tech.
 
  [8]: http://www.core77.com/blog/digital_fabrication/digital_fabrication_and_fashion_intersect_at_paris_fashion_week_24243.asp
@@ -55,10 +54,10 @@ Came back to NYC early January and hit the ground running. Sat in on Dan Shiffma
 
 The semester is shaping up to be jam-packed. Excited to be working with Katherine Dillon and all the 2nd years in thesis this semester. I’ll also be supporting CommLab Web again, definitely sign up for office hours if you need any help.
 
-And now, you should take a look at these:  
-[The Future According to Google’s Eric Schmidt][19]  
-[Y-Combinator Backs Its First Non-Profit][20] – [WATSI.or][21]  
-[NY Times Launches TimeSpace: A 4 Month Media-Biz Incubator][22]  
+And now, you should take a look at these:
+[The Future According to Google’s Eric Schmidt][19]
+[Y-Combinator Backs Its First Non-Profit][20] – [WATSI.or][21]
+[NY Times Launches TimeSpace: A 4 Month Media-Biz Incubator][22]
 [DARPA’s 1.8 GigaPixel Camera][23]
 
  [19]: http://blogs.wsj.com/corporate-intelligence/2013/02/01/the-future-according-to-eric-7-points/
@@ -71,11 +70,11 @@ And now, you should take a look at these:
 
 Welcome back everyone! It’s amazing to realize that we are already into February of 2013! I’ve been busy through January finishing the Lasersaur (it’s first cut, the lasersaur logo, is attached to the case). We are 95% of the way there, with just the exhaust and air assist steps to go (mostly so we don’t have any fire issues). I also set up our brand new Replicator 2 Makerbot 3d printer! It’s in the J-room next to the original Replicator, definitely worth trying out (and if you are not sure how, keep your eyes peeled for an upcoming 3d printer workshop!) Thesis has started off quite strong, and both this week and last I’ve spent a fair amount of time meeting with 2nd years to discuss project worries and excitement. I’ve also started helping Tom Igoe record Physical Computing lecture videos similar to the ICM and Nature of Code videos.
 
-And now a whole lot of links, stay warm and dry everyone!  
-[Fishy Thoughts][24]  
-[The Water Main Break flooding 23rd st N/R Station][25]  
-[Laser Origami Fabrication Machine][26]  
-[Pilotable Robots from Japan][27]  
+And now a whole lot of links, stay warm and dry everyone!
+[Fishy Thoughts][24]
+[The Water Main Break flooding 23rd st N/R Station][25]
+[Laser Origami Fabrication Machine][26]
+[Pilotable Robots from Japan][27]
 [Mini hackable drones][28] but don’t try to sell the results to [Charlottesville, Va][29] or [Seattle, Washington][30]
 
  [24]: http://gizmodo.com/5980796/first ever-incredible-footage-of-a-thought-being-formed?utm_campaign=socialflow_gizmodo_twitter&utm_source=gizmodo_twitter&utm_medium=socialflow
@@ -164,7 +163,7 @@ Enjoy the snow!!
 
 **Mimi**
 
-Holimoli the semester started fast. Thesis is so much more fun from this end of things, listening and helping and working together with Georgia instead of stressing about my own project! Went to see Antonius’ show at The Kitchen which was a trip. I kept wanting to giggle but the audience was taking it all so seriously! I was glad to know afterwards that I was supposed to be laughing.  
+Holimoli the semester started fast. Thesis is so much more fun from this end of things, listening and helping and working together with Georgia instead of stressing about my own project! Went to see Antonius’ show at The Kitchen which was a trip. I kept wanting to giggle but the audience was taking it all so seriously! I was glad to know afterwards that I was supposed to be laughing.
 Narrowly missed Merche in Spain over break which was downright bucolic ![:(][58] and had a typically passive-aggressively-hilarious time in London where I spent 3 hours in Parliament listening to Minister Pickles (yes that is actually his name) explain about Minister Pickles’ 50 Ways To Save Money to the Liberals. This was the best picture I could find of aforementioned Pickles on the [interwebs][59].
 
  [58]: http://itp.nyu.edu/residents/wp-includes/images/smilies/icon_sad.gif
@@ -221,13 +220,13 @@ I spend a good deal of time thinking about online publishing and since the last 
 
 And now a ton of links:
 
-[Atlas of True Names][76]  
-[Courier Prime][77]  
-[Open Source Minecraft-like Engine in the Web][78]  
-[Vagrant][79]  
-[NY, NY][80]  
-[The proper way to watch the Star Wars movies.][81]  
-[Advice technical speakers][82]  
+[Atlas of True Names][76]
+[Courier Prime][77]
+[Open Source Minecraft-like Engine in the Web][78]
+[Vagrant][79]
+[NY, NY][80]
+[The proper way to watch the Star Wars movies.][81]
+[Advice technical speakers][82]
 [Customizing Hold and Press in Mountain Lion][83]
 
  [76]: http://i.imgur.com/fKHlK.jpg

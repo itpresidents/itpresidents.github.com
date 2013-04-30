@@ -2,14 +2,13 @@
 title: Recursions
 author: Antonius
 layout: post
-permalink: /recursions/
 dsq_thread_id:
   - 869921279
 categories:
   - ICM
   - Uncategorized
 ---
-# 
+#
 
 A student asked me how to do recursions (on the first week of ICM!!).
 

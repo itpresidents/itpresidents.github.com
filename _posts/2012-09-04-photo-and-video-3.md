@@ -2,7 +2,6 @@
 title: Photo and Video
 author: Antonius
 layout: post
-permalink: /photo-and-video-3/
 tumblrize_post-type:
   - regular
 tumblrize_post-group:
@@ -13,7 +12,7 @@ categories:
   - Uncategorized
   - Video
 ---
-# 
+#
 
 Hey Check out this photo:
 

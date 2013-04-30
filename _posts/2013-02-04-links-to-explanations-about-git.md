@@ -2,13 +2,12 @@
 title: Links to explanations about Git
 author: Steve
 layout: post
-permalink: /links-to-explanations-about-git/
 dsq_thread_id:
   - 1067450726
 categories:
   - Git
 ---
-# 
+#
 
 It’s second semester and to celebrate I held another Git session. Here’s a few links for tutorials about getting started using Git.
 

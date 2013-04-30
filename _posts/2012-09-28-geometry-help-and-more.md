@@ -2,15 +2,14 @@
 title: Geometry Help and More!
 author: Mimi
 layout: post
-permalink: /geometry-help-and-more/
 dsq_thread_id:
   - 863167663
 categories:
   - ICM
 ---
-# 
+#
 
-  
+
 
 
 **Next Session: Thursday Oct 11th 6-7:30PM Room 15**

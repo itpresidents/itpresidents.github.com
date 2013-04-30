@@ -2,14 +2,13 @@
 title: Installing a Blog with WordPress on the ITP Student Server
 author: Steve
 layout: post
-permalink: /installing-a-blog-with-wordpress-on-the-itp-student-server/
 dsq_thread_id:
   - 841749288
 categories:
   - Tutorial
   - Wordpress
 ---
-# 
+#
 
 This article will show you how to install WordPress on the ITP Student server for all your documentations needs.
 
@@ -76,7 +75,7 @@ Unzip `wordpress-3.4.1.zip` by double clicking on it.
 Rename the folder to whatever you want your blog to be called. For instance, if you don’t rename the folder your blog will be:
 
         http://itp.nyu.edu/~sk3453/wordpress
-    
+
 
 I’m going to name my folder “blog.”
 
@@ -107,7 +106,7 @@ What you see is your password to log in to the database. Select it with your cur
 Now go to your blog, mine is here:
 
         http://itp.nyu.edu/~sk3453/blog
-    
+
 
 Substitute your netid and whatever you named your WordPress folder for ‘sk3453′ and ‘blog’ respectively.
 

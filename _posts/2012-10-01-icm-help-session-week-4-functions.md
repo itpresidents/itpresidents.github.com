@@ -2,13 +2,12 @@
 title: 'ICM Help Session Week 4: Functions'
 author: Craig
 layout: post
-permalink: /icm-help-session-week-4-functions/
 dsq_thread_id:
   - 867277416
 categories:
   - ICM
 ---
-# 
+#
 
 This week’s help session focused entirely on **functions** – What are they? How do we use them? And how can we write our own?
 
@@ -37,7 +36,7 @@ Here’s a link to all the [CODE][1].
  [5]: https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_4/arrow_04/arrow_04.pde
  [6]: https://github.com/itpresidents/ICM-Help-Sessions/blob/master/ICM_Help_Session_Week_4/snowman_functions/snowman_functions.pde
 
-**Thursday’s ICM Help Session** | [CODE][7]  
+**Thursday’s ICM Help Session** | [CODE][7]
 We went over objects, passing data into an object’s functions from the draw() loop and even functions that return data so that one object can communicate with another object.
 
  [7]: https://github.com/itpresidents/ICM-Help-Sessions/tree/master/ICM_Help_Session_Week_4/stop_and_go_ball_objects

@@ -2,14 +2,13 @@
 title: 'Residents&#8217; Digest #3'
 author: Craig
 layout: post
-permalink: /residents-digest-3/
 dsq_thread_id:
   - 882681595
 categories:
   - "Residents' Digest"
   - Uncategorized
 ---
-# 
+#
 
 **![][1]**
 
@@ -145,18 +144,18 @@ In the “outside-ITP” world I have been recording some voices for the new alb
  [46]: http://lasersmusic.bandcamp.com/
  [47]: http://www.kickstarter.com/projects/1504185181/storywalks-at-eldridge-street
 
-Some links for the coming days:  
-[Audiogram][48] a unique interactive audio experience by Improv Everywhere designed for the South Bronx, 13th and 14th October  
-Haven’t got time yet to check this one in Bitforms gallery, but looks/sounds promising:  
-  
-Somewhere to get lost in Nostalgia..  
+Some links for the coming days:
+[Audiogram][48] a unique interactive audio experience by Improv Everywhere designed for the South Bronx, 13th and 14th October
+Haven’t got time yet to check this one in Bitforms gallery, but looks/sounds promising:
+
+Somewhere to get lost in Nostalgia..
 
 
  [48]: http://stillspotting.guggenheim.org/visit/bronx/
 
 **Mimi**
 
-[Geometry sessions][49] went way better than I expected ![:)][50]  
+[Geometry sessions][49] went way better than I expected ![:)][50]
 Last weekend of my [highline installation][51]. Going to try and catch some footage of it with today’s amazing cloud coverage. Re-flexing Processing-in-Eclipse muscles as people are beginning to get their hands dirty with MPE and Processing.
 
  [49]: http://itp.nyu.edu/residents/geometry-helpers-session-1-wrap-up/

@@ -2,14 +2,13 @@
 title: 'Residents&#8217; Digest #5'
 author: Craig
 layout: post
-permalink: /residents-digest-5/
 dsq_thread_id:
   - 932694206
 categories:
   - "Residents' Digest"
   - Uncategorized
 ---
-# 
+#
 
 ******![][1]******
 

@@ -2,16 +2,15 @@
 title: 'Residents&#8217; Digest #8'
 author: Craig
 layout: post
-permalink: /residents-digest-8/
 dsq_thread_id:
   - 1185012771
 categories:
   - "Residents' Digest"
   - Uncategorized
 ---
-# 
+#
 
-****![][1]  
+****![][1]
 ****
 
  [1]: https://lh6.googleusercontent.com/EFHDYXvilRrm6d8mkOnUncn1gkLU3LX0TVobbU7U_OPEF77b3FfQgewvwdtt57NGGeUPiEXEX5vCT7GBVhjcngPUhLhzNO75S14iOPSRXs8B6D6X-0GaNDnElQ

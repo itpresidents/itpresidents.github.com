@@ -2,14 +2,13 @@
 title: Week 1 ICM Help Session
 author: Lia
 layout: post
-permalink: /week-1-icm-help-session/
 dsq_thread_id:
   - 841725004
 categories:
   - ICM
   - Tutorial
 ---
-# 
+#
 
 **GENERAL REFERENCES **
 
@@ -37,8 +36,8 @@ Go to the menu File>>Examples…>>Basics.
 
 There were A LOT of questions about drawing curves
 
-[curves in processing.org][1] (arcs, splines, bezier)  
-[drawing in processing][5] (coordinate system, simple shapes)  
+[curves in processing.org][1] (arcs, splines, bezier)
+[drawing in processing][5] (coordinate system, simple shapes)
 [working with color][6]
 
  [5]: http://processing.org/learning/drawing/
@@ -56,7 +55,7 @@ There were A LOT of questions about drawing curves
 
  [9]: http://shop.oreilly.com/product/0636920000570.do
 
-The Unit Circle  
+The Unit Circle
 [![][11]][11]
 
  []: http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/600px-Unit_circle_angles_color.svg.png

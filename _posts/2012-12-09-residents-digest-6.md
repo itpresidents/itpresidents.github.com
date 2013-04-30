@@ -2,19 +2,18 @@
 title: 'Residents&#8217; Digest #6'
 author: Craig
 layout: post
-permalink: /residents-digest-6/
 dsq_thread_id:
   - 966309725
 categories:
   - "Residents' Digest"
 ---
-# 
+#
 
 ![][1]
 
  [1]: https://lh4.googleusercontent.com/aT6g9TK8UL2g4_NMkqmwulCSqmLzyCHVbLJqQCoUN5uJdjAnjYGTkZOFfI-ptq5RHlRDOuwFFvkuDXIHNuF39rk7SFWOrlzjbpwFMDfnO1jII-gXJFko
 
-BEFORE ANYTHING ELSE, HERE ARE THE ANSWERS TO LAST WEEK’S CONTEST:****  
+BEFORE ANYTHING ELSE, HERE ARE THE ANSWERS TO LAST WEEK’S CONTEST:****
 ****
 
 *   My visa is expiring – MERCHE
@@ -84,7 +83,7 @@ And on the business front, entrepreneur[ Vibhu Norby][24] wrote[ a thoughtful bl
 
 **Eric**
 
-Thesis! Winter Show! End of the Semester! I spent a wonderfully quiet Thanksgiving break in Cleveland, but was happy to come back to the hecticness of both ITP and New York during the holidays. I was happy to help with the Thesis presentations (having the rather passive opportunity to just cue slides) and greatly enjoyed running through the brainstorming sessions. Overall I was quite impressed with both the range and depth of upcoming Thesis projects.  
+Thesis! Winter Show! End of the Semester! I spent a wonderfully quiet Thanksgiving break in Cleveland, but was happy to come back to the hecticness of both ITP and New York during the holidays. I was happy to help with the Thesis presentations (having the rather passive opportunity to just cue slides) and greatly enjoyed running through the brainstorming sessions. Overall I was quite impressed with both the range and depth of upcoming Thesis projects.
 In addition to office hours, I’ve been back working hard on the Lasersaur troubleshooting, installing the chiller system, [FIRING IT][27], and putting the optics system in place. Still a number of tests / questions to be answered about filtration and procedure, but early next semester I will be looking for interested parties to learn how the laser works.
 
  [27]: http://www.youtube.com/watch?v=mMJrBdx1UpA&feature=youtu.be
