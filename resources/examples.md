@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Example List
-permalink: /examples/index.html
 ---
 ## ITP Resident Examples
 
