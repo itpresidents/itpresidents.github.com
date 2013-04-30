@@ -1,10 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
   color:#777;
-  font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,7 +40,6 @@ h3, h4, h5, h6 {
 
 a {
   color:#39c;
-  font-weight:400;
   text-decoration:none;
 }
 
@@ -96,7 +101,7 @@ img {
 }
 
 header {
-  width:270px;
+  width: 250px;
   float:left;
   position:fixed;
 }
@@ -121,24 +126,20 @@ strong {
   font-weight:700;
 }
 
-header ul li + li {
-  width:88px;
-  border-left:1px solid #fff;
-}
-
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
-
 header ul a strong {
   font-size:14px;
   display:block;
   color:#222;
 }
 
+iframe,
+img,
+video {
+  max-width: 100%;
+}
+
 section {
-  width:600px;
+  width: 670px;
   float:right;
   padding-bottom:50px;
 }
@@ -160,6 +161,26 @@ footer {
   position:fixed;
   bottom:50px;
 }
+
+.post-short {
+  border-bottom: 1px solid #ccc;
+  margin: 1.5em 0;
+  padding: 0 0 1.5em 0;
+}
+
+.short-post-date {
+  font
+}
+
+.short-post-title a {
+  font-weight: 700;
+  font-size: 1.35em;
+}
+
+.short-post-author {
+  color: #000;
+}
+
 
 @media print, screen and (max-width: 960px) {
 
@@ -186,11 +207,11 @@ footer {
   }
 
   header a small {
-    display:inline;
+    display: inline;
   }
 
   header ul {
-    position:absolute;
+    position: absolute;
     right:50px;
     top:52px;
   }
@@ -206,7 +227,7 @@ footer {
   }
 
   header ul, header p.view {
-    position:static;
+    position: static;
   }
 
   pre, code {

@@ -2,14 +2,21 @@
 layout: default
 title: ITP Residents
 ---
-<h3><a href="http://itp.nyu.edu/residents">Our Blog</a></h3>
 
-{% for post in site.posts %}
+{% for post in site.posts limit:5 %}
   <div class="post-list">
     <h2><a href="{{post.url}}">{{post.title}}</a></h2>
     <h3>by {{post.author}}</h3>
-    <div>
-      {{post.content}}
-    </div>
+    <h4>{{post.categories}}</h4>
+    <div class="post-content">{{post.content}}</div>
+{% endfor %}
+
+{% for post in site.posts offset:5 %}
+  <div class="post-short">
+    <div class="short-post-content">{{post.categories}}</div>
+    <div class="short-post-title"><a href="{{post.url}}">{{post.title}}</a></div>
+    <p>
+      by <span class="short-post-author">{{post.author}}</span> on <span class="short-post-date">{{post.date | date: "%m-%d-%Y"}}</span>
+    </p>
   </div>
 {% endfor %}
