@@ -1,0 +1,217 @@
+---
+title: 'Residents&#8217; Digest #3'
+author: Craig
+layout: post
+permalink: /residents-digest-3/
+dsq_thread_id:
+  - 882681595
+categories:
+  - "Residents' Digest"
+  - Uncategorized
+---
+# 
+
+**![][1]**
+
+ [1]: https://lh5.googleusercontent.com/2khXpVKTPAILHehLUaQ9pD1fwUUbbDIWTjuBuP-ht1D40W4o56AjpeiNdlMM6VLPaX0UFw1MoC6zTUGzlgNkVc0bwHP7K7QKrFDelm6hzuL9Z8hct7Q
+
+**Antonius**
+
+****Things are going well at IAC. I installed Windows 8 on my machine there and made my first app for Metro – a simple gif-animated limerick about my new developer friends. The other day, we ran into[ Jeremy Keith][2], lord of all things AJAX. He was asking where to get a good cup of coffee, so we pointed him to[ Stone Street Coffee][3] on 9th Ave. I’m still in the process of updating the[ Soft Lab][4] section of[ shop.itp.nyu.edu][5]. Students can now reserve the machines to ensure that they can use it at any specific time the floor is open. Merche and I are making tutorials for all of the machines. We just did a workshop on how to use the vinyl cutter, and the written tutorial should be up soon. We also did a review on the computerized embroidery machine. The[ tutorial for that one is up here][6]. I built two render machines for After Effects and Media Encoder for students. To learn how to access them, [please sign up for office hours with me][7]. It will be helpful for students in Big Screens and Open Source Animation. Speaking of which, I met [Nick Fox-Gieg][8] last week and we spent a good few hours talking about using the kinect for animation. He’s awesome! And I was flattered to find out he showed the animation I did for [Saadi’s music video][9] in his class. It’s finally fall, my favorite season. But my eyes have been on next season’s ready to wear Spring collections in Paris. Hot this year: Stripes are out,[ taxicab checkers are in][10]. And remember,[ you can never have enough hats, gloves and shoes][11].
+
+ [2]: http://adactio.com/
+ [3]: https://maps.google.com/maps?hl=en&um=1&ie=UTF-8&q=stone street coffee&fb=1&gl=us&hq=stone street coffee&hnear=0x89c24fa5d33f083b:0xc80b8f06e177fe62,New York, NY&cid=0,0,13521480490945210258&sa=X&ei=IEt4UIqgJKj30gGPioCQBw&ved=0CJkBEPwSMAA
+ [4]: http://shop.itp.nyu.edu/home/softlab
+ [5]: http://shop.itp.nyu.edu/
+ [6]: http://shop.itp.nyu.edu/home/softlab/embroidery-machine/svg-to-embroidery-tutorial
+ [7]: https://itp.nyu.edu/inwiki/Signup/Antonius
+ [8]: http://www.fox-gieg.com/
+ [9]: https://www.youtube.com/watch?v=yzuGheu09Cg
+ [10]: http://www.wwd.com/runway/spring-ready-to-wear-2013/review/louis-vuitton?module=hp-runway
+ [11]: http://bendphillips.files.wordpress.com/2012/07/tumblr_lxj3zol7st1qbe82eo1_500.gif
+
+**Craig**
+
+I started my Vimeo fellowship last week, which is looking extremely promising. Haven’t honed in on an area of focus just yet, but I’ve gotten to spend some time researching a range of areas and found some inspiring projects. In particular, I’ve been amazed by the work of[ Ji Lee][12] ([the nine project][13] and[ word as image][14] are great). Finally finished up the promo video for the 2012 NYU Entrepreneurs Festival, you can watch it[ HERE][15]. And I’m looking forward to working more on the Sinatra web app for Dan Shiffman’s ICM videos. Hope to have an initial site up soon.
+
+ [12]: http://pleaseenjoy.com/
+ [13]: http://pleaseenjoy.com/projects/personal/nine-circles-number/
+ [14]: http://pleaseenjoy.com/projects/personal/word-as-image/#image746
+ [15]: http://www.youtube.com/watch?v=3ULtFJTq1lI
+
+Also ran some Comm Lab workshops with Merche for production and editing. And I’ve been sitting in on Rune’s Web Dev class, excited to see the finals next week!
+
+Big congrats to the Nerdy Derby crew for a great job at Maker Faire.  Also want to give a shout out to 2012 alum [Jeremy Scott Diamond][16] for his work at the Bloomberg Visual Data group. They just launched their[ first project][17], def check it out.
+
+ [16]: http://www.jeremyscottdiamond.com/#projects
+ [17]: http://www.bloomberg.com/visual-data/state-by-state/q/jaaaaaaf/j:f2:araqfdksa8a
+
+Along the data viz line, Mike Bostock, the author of the [javascript library d3][18] just posted over [300 examples with code][19] on his blog.
+
+ [18]: http://d3js.org/
+ [19]: http://bl.ocks.org/mbostock
+
+This[ WebCam 3D Mesh][20] is pretty rad.
+
+ [20]: http://www.chromeexperiments.com/detail/webcam-mesh/
+
+Random biz story, earlier this week twitter acquired[ Vine][21], a tiny 3 person[ video company that never launched][22].
+
+ [21]: http://vine.co/
+ [22]: http://allthingsd.com/20121009/twitter-buys-vine-a-video-clip-company-that-never-launched/
+
+And if you haven’t already heard about it, this amazing[ Rain Room installation][23] is showing in London right now.
+
+ [23]: http://random-international.com/work/rainroom/
+
+**Eric**
+
+The past two weeks have flown by. Maker Faire went well and it was nice to see so many ITP faces both past and present showcasing a sample of wonderful projects. Jody Culkin and I got back to working on the Lasersaur project, installing the power supply and marching ever closer to firing our 4ft. 100 watt laser.
+
+In addition to physical computing and fabrication help, I’ve an increased interest in the MakerBot 3D printer both with 3D Sensing and Ideas taking Shape. I’ve been working on a comprehensive written guide to help people print their models in the future, and will then go on to make a basic guide for 3D model making. Look for this and other updates on the [Shop website][5].
+
+Sitting in Puppets class has continued to be a rewarding experience and this past week in addition to the class creating a plethora of interesting marionettes now hanging around the floor, [ Greg Barsamian][24] came in to speak about his art practice and creating large scale 3D Zoetropes. If you haven’t seem them already, definitely worth checking out.
+
+ [24]: http://www.gregorybarsamian.com/
+
+My obsession with surfing and building a surfboard has only increased in the past few weeks, and I have been eyeing the possibility for building myself either a [CNC wood hollow][25] or [a cardboard surfboard][26].
+
+ [25]: http://woodsurfboardsupply.com/longboards.html
+ [26]: http://www.adventure-journal.com/2011/07/the-cardboard-surfboard/
+
+I know this has already been posted multiple places, but the 3D printed optics coming out of [Disney Research][27] is amazing, and worth noting that the Objet 3D printer available at [AMS][28] is capable of printing the same translucent material if people have project ideas.
+
+ [27]: http://www.disneyresearch.com/research/projects/hci_printedoptics_drp.htm
+ [28]: http://www.nyu.edu/its/ams/services/
+
+**Genevieve**
+
+The past two weeks have been busy with help sessions and workshops, especially now that Big Screens is really getting into gear. I went over ways to create assets in Processing and use them in After Effects, so if you’re interested in that workflow for your projects I’m happy to go over it in[ office hours][29].
+
+ [29]: https://www.google.com/calendar/selfsched?sstoken=UUhGUUNmeHFOWnhQfGRlZmF1bHR8MTUzOTk4Y2JjMTQwYzNhZDM0Y2M5NmM1MDJkYzQxYjM
+
+Last week I also got to visit the internet with the Understanding Networks class. And I don’t just mean loading the Google homepage. We got a tour of the[ zColo][30] facilities at 60 Hudson St in Tribeca, a building where many of the network providers exchange traffic in New York City, and is one of the major internet traffic hubs in the world. It was really fascinating to see the infrastructure that makes all the virtual connections that we take for granted possible.
+
+ [30]: http://www.zcolo.com/60-hudson-street-new-york-colocation
+
+There will be an Art Out next Wednesday to the Met, so if you’d like to come, meet at ITP at 3:10pm, or uptown at 3:40. Also, sign up to receive announcements about ArtOuts at the[ blog][31]. If you can’t make it when the group is going, feel free to check out the shows on your own time.
+
+ [31]: http://itp.nyu.edu/~mz46/artout/
+
+And in high frequency trading[ news][32], you may have heard that one HFT algorithm made up 4% of trading in the US stock market that week. In the time that it operated, it posted and cancelled millions of orders, without executing a single trade, taking up 10% of an exchange’s allocated bandwidth or an entire day.
+
+ [32]: http://www.cnbc.com/id/49333454/comid/
+
+Completely unrelated, but also pretty cool, here is a company that produces packing material entirely from[ mushrooms][33]. Say goodbye to styrofoam.
+
+ [33]: http://www.mushroompackaging.com/
+
+**Lia**
+
+I am starting to really enjoy Office Hours — am learning a lot by looking at how other people write code. Lots of Workshops, too: ICM, plus Video Shooting and Editing took up most of my time. Went to the Resident’s show in Dumbo, which was a lot of fun. It was great seeing them as a group and showing off their awesome work. I even took one of Rune’s Tiny Artists home: [this one][34]. I missed out on all the Maker Faire fun, but I did help pick 80 pounds worth of apples in Virginia. I’ve also started taking an iOS development class outside school, which is a small step closer to that lofty dream we all have — actually finishing your thesis.
+
+ [34]: https://plus.google.com/photos/115762468545233300551/albums/5798433185517572641/5798433184482117618
+
+I stumbled onto the [Disney Research][35] site, and spend a good hour or two looking over the research projects. Start with this one: [beautiful 3D printed optics][27]. Advanced Capacitive Sensing makes everything a touch surface — [including doorknobs][36]. This is an interesting[ iphone projector][37] project that allows you to play your game on any surface you can project on — and interact with your characters via accelerometer and more. Finally, the [tongue-joystick][38] is just calling out to be integrated into an ITP project.
+
+ [35]: http://www.disneyresearch.com/
+ [36]: http://www.disneyresearch.com/research/projects/hci_touche_drp.htm
+ [37]: http://www.disneyresearch.com/research/projects/hci_motionbeam_drp.htm
+ [38]: http://www.disneyresearch.com/research/projects/hci_tongue_input_device_Creating_Conversations_drp.htm?v=y&rnd=1317086862533
+
+The great cinematographer Harris Savides away passed this week. If you haven’t yet heard his name you will know him by his incredible work. Some clips from a few films: [Zodiac][39], [Elephant][40], [Birth][41].
+
+ [39]: http://youtu.be/TbI7_iOYJvg
+ [40]: http://youtu.be/UaHDf-m1sSo
+ [41]: http://youtu.be/lpJj9c2OV-0
+
+Also, my friend Raya Martin’s films are screening next week at the [Museum of the Moving Image][42]. If you’ve never seen a Filipino film, Martin’s work is not typical of it, but very good — thoughtful and thought-provoking. Start with [Independencia][43], which will show on the 19th.
+
+ [42]: http://www.movingimage.us/films/2012/10/19/detail/raya-martin/
+ [43]: http://www.movingimage.us/visit/calendar/2012/10/19/detail/independencia
+
+Finally,[ a giant eyeball was found on a beach, mystifies marine biologists][44].
+
+ [44]: http://cosmiclog.nbcnews.com/_news/2012/10/11/14374921-giant-eyeball-found-on-beach-posing-mystery-for-marine-biologists
+
+**Merche**
+
+In terms of workshops we are running the last ones for comm lab – Video and Sound  in video editing with Adobe Premiere, and I am looking forward to see all their final projects! Around NIME world we have the GREAT news of a venue confirmed and students have shot their instrument proposals. Nick & I worked on the [video][45] of their presentations on the last weeks. With Antonius we have been working in the tutorial for the embroidery machine, that we uploaded [HERE][6] and we are working now on one for the vinyl cutter.
+
+ [45]: https://vimeo.com/channels/407120
+
+In the “outside-ITP” world I have been recording some voices for the new album coming this year of the band [LASERS][46] from Barcelona and composing the “soundtrack” for the site-specific smartphone app [Storywalks][47] at Eldridge Street by ITP alums Carlin Wragg and Anna Pinkas.
+
+ [46]: http://lasersmusic.bandcamp.com/
+ [47]: http://www.kickstarter.com/projects/1504185181/storywalks-at-eldridge-street
+
+Some links for the coming days:  
+[Audiogram][48] a unique interactive audio experience by Improv Everywhere designed for the South Bronx, 13th and 14th October  
+Haven’t got time yet to check this one in Bitforms gallery, but looks/sounds promising:  
+  
+Somewhere to get lost in Nostalgia..  
+
+
+ [48]: http://stillspotting.guggenheim.org/visit/bronx/
+
+**Mimi**
+
+[Geometry sessions][49] went way better than I expected ![:)][50]  
+Last weekend of my [highline installation][51]. Going to try and catch some footage of it with today’s amazing cloud coverage. Re-flexing Processing-in-Eclipse muscles as people are beginning to get their hands dirty with MPE and Processing.
+
+ [49]: http://itp.nyu.edu/residents/geometry-helpers-session-1-wrap-up/
+ [50]: http://itp.nyu.edu/residents/wp-includes/images/smilies/icon_smile.gif
+ [51]: http://multivers.es/chance
+
+This [footage of the earth][52] from the International Space Station is pretty awesome.
+
+ [52]: http://www.youtube.com/watch?v=7ObnEpRccHM
+
+**Nick**
+
+Office hours and help sessions continue to be lively and fun. We’ve finalized the venue for NIME: Glasslands Gallery on Sunday December 9th — mark your calendars! I enjoyed seeing last year’s [ITP Residents’ show at the Dumbo Arts Festival][53] along with great work from other alums and students. We’re talking to the festival organizers about making this exhibition an annual tradition.
+
+ [53]: http://www.dumboartsfestival.com/exhibition/center-for-the-recently-possible
+
+I have a piece in [a show opening at the New York Hall of Science][54] later this month [There’s an opening reception Thursday Oct 25 from 6-9][55].
+
+ [54]: http://regeneration.nysci.org/
+ [55]: http://nysoundworks.org/wp-content/uploads/2012/10/reGen-REV.jpeg
+
+ITP alums Eszter Ozsvald and Sue Ngo just launched [a Kickstarter][56] for their compact, Arduino compatible microcontroller platform [Heatit ][57], designed for driving high current loads.  Let’s get it funded!!!  I helped do some testing with solenoids and provided [music][58] for the video.
+
+ [56]: http://www.kickstarter.com/projects/1257609237/heatit
+ [57]: http://heatit.cc/
+ [58]: http://nickyulman.bandcamp.com/track/ten-for-ten
+
+Here’s [A DIY youtube mashup][59] of Terry Riley’s minimalist masterpiece “In C” and Cerrone’s disco anthem “Love in C Minor”  (play both simultaneously, sit back, enjoy ride).
+
+ [59]: http://hilobrow.com/2012/09/30/discominimalism/
+
+**Steve**
+
+I also went to the Residents’ show at the Dumbo Arts Festival. It was great to go and see what they have all been working on and not just ask them to remind me how to wire up an LED. I went to MakerFaire, and ran into quite a few ITP students and alums and got to see the madness that was Nerdy Derby. I picked up a Raspberry Pi (that I [don’t know what to do with][60]) and an [Arduino Leonardo][61].
+
+ [60]: http://www.engadget.com/2012/09/04/raspberry-pi-getting-started-guide-how-to/
+ [61]: http://arduino.cc/blog/2012/07/23/massimo-introduces-arduino-leonardo/
+
+[This][62] is a great article about the redesign of [Microsoft.com][63]. The design agency Paravel who worked on the site has some excellent [jQuery plugins ][64](scroll down). The new Microsoft might just give [responsive web design][65] the push it needs to become the way to make websites.
+
+ [62]: http://rainypixels.com/words/the-story-of-the-new-microsoft-com/
+ [63]: http://microsoft.com/
+ [64]: http://paravelinc.com/work.php
+ [65]: http://www.abookapart.com/products/responsive-web-design
+
+Last weekend in Berlin there was an event called [NodeCopter][66], a day of Parrot AR Drones getting programmed by Node.js, Mikeal Rogers has a [great write up][67] of the event. We have a Parrot at ITP which I wanted to play around with after seeing this, but the battery charger is broken (Which is a really lame problem to have in the goal of controlling a quadcopter from the terminal). Speaking of Node, did you know that Node can talk to your serial ports? Tom Igoe wrote a [post detailing how to do this][68] over the summer, it’s very much worth checking out if you want your Arduino to talk to the internet.
+
+ [66]: http://nodecopter.com/
+ [67]: http://www.mikealrogers.com/posts/hella-copters.html
+ [68]: http://www.tigoe.com/pcomp/code/arduinowiring/1096/
+
+I started reading Seymour Papert’s book Mindstorms and wanted to mess around with the LOGO programming language and found that Heroku has turned LOGO into a [web app][69].
+
+ [69]: http://logo-blank.heroku.com/
+
+I’ve been nailing down the structure of the Thesis Progress site in the past few weeks and there are some rather exciting things I’ve got planned for it. More on that to come. And there’s a small demo app I made connecting Node.js to Processing.js via Socket.io, [check it out][70].
+
+ [70]: https://github.com/itpresidents/node-sockets-processingjs
